@@ -38,7 +38,7 @@ const Projects = () => {
         viewport={{ once: true, amount: 0.3 }}
         className=" bg-zinc-800 p-4 rounded-md cursor-default"
       >
-        <a href="" target="_blank">
+        <a href="https://personal-portfolio-lits00s-projects.vercel.app/" target="_blank">
           <img src={Portfolio} alt="Portfolio" />
         </a>
         <div className="flex flex-row justify-between mt-3">
@@ -47,7 +47,7 @@ const Projects = () => {
             <SiReact className="text-xl text-cyan-500" />
             <SiTailwindcss className="text-xl text-sky-400" />
           </div>
-          <a href="" target="_blank"><BiLinkExternal className="text-2xl" /></a>
+          <a href="https://personal-portfolio-lits00s-projects.vercel.app/" target="_blank"><BiLinkExternal className="text-2xl" /></a>
         </div>
         <p className="mt-2">My very own portfolio website.</p>
       </motion.article>
