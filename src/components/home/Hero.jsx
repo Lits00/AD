@@ -17,7 +17,7 @@ const Hero = ({className}) => {
       <ul className="flex gap-6">
         <li className="cursor-pointer text-3xl hover:text-sky-600 md:text-2xl"><a href="mailto:litsdionisio@gmail.com" target="_blank" rel="noopener noreferrer"><MdAlternateEmail /></a></li>
         <li className="cursor-pointer text-3xl hover:text-sky-600 md:text-2xl"><a href="https://github.com" target="_blank" rel="noopener noreferrer"><FaGithub /></a></li>
-        <li className="cursor-pointer text-3xl hover:text-sky-600 md:text-2xl"><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a></li>
+        <li className="cursor-pointer text-3xl hover:text-sky-600 md:text-2xl"><a href="https://www.linkedin.com/in/lits-dionisio/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a></li>
       </ul>
     </motion.article>
   )

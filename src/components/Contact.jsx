@@ -14,7 +14,7 @@ const Contact = () => {
 
       <ul className="flex gap-5">
         <li className="cursor-pointer text-lg hover:text-sky-600 md:text-2xl"><a href="mailto:litsdionisio@gmail.com" target="_blank" rel="noopener noreferrer">Email</a></li>
-        <li className="cursor-pointer text-lg hover:text-sky-600 md:text-2xl"><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+        <li className="cursor-pointer text-lg hover:text-sky-600 md:text-2xl"><a href="https://www.linkedin.com/in/lits-dionisio/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
       </ul>
     </section>
   );
