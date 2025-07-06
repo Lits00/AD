@@ -49,7 +49,7 @@ const Projects = () => {
           </div>
           <a href="https://personal-portfolio-lits00s-projects.vercel.app/" target="_blank"><BiLinkExternal className="text-2xl" /></a>
         </div>
-        <p className="mt-2">My very own portfolio website.</p>
+        <p className="mt-2">My very own portfolio website built with React.js. In this project, I chose to try TailwindCSS and Framer Motion as the technologies for app design because I had never used them before and wanted to learn more about them.</p>
       </motion.article>
       
       <motion.article
